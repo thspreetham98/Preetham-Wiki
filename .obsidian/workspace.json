@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simulating Neutral Atom Quantum Systems with Tensor Network States.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simulating Neutral Atom Quantum Systems with Tensor Network States.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simulating Neutral Atom Quantum Systems with Tensor Network States.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simulating Neutral Atom Quantum Systems with Tensor Network States.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "0c82cf22588f732d",
   "lastOpenFiles": [
-    "Quantum Computing.md",
     "Simulating Neutral Atom Quantum Systems with Tensor Network States.md",
+    "README.md",
+    "Quantum Computing.md",
     "References",
     "Quantum Computing Research Papers",
     "Welcome.md",
