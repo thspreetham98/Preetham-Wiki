@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "244487c28558cac7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c20d4f52cd1ad96d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c82cf22588f732d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simulating Neutral Atom Quantum Systems with Tensor Network States.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67c5d1c4fc5882ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "78d8a52fe364d6e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5b8532d9708d0bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70db2b5cd9978d33",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfc06e2622c8bc8c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b9bf8a880779b92",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcb6150bc4768b09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92c7ebb459c6a6ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Simulating Neutral Atom Quantum Systems with Tensor Network States.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a763fa7654d14efb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Simulating Neutral Atom Quantum Systems with Tensor Network States.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "037cae5f13661480",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d7ab75f4322633db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Simulating Neutral Atom Quantum Systems with Tensor Network States.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0c82cf22588f732d",
+  "lastOpenFiles": [
+    "Quantum Computing.md",
+    "Simulating Neutral Atom Quantum Systems with Tensor Network States.md",
+    "References",
+    "Quantum Computing Research Papers",
+    "Welcome.md",
+    "Quantum Computing"
+  ]
+}
